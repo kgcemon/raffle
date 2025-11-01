@@ -454,7 +454,7 @@
 
 <div class="container">
     <div class="header">
-        <img src="https://edulife.agency/storage/loggo-agency-01.png" alt="t">
+        <img src="https://edulife.agency/storage/loggo-agency-01.png" alt="t" height="70">
         <h1>🎯 রেজিস্ট্রেশন সিস্টেম</h1>
         <p>আপনার তথ্য দিয়ে রেজিস্টার করুন</p>
     </div>
