@@ -391,8 +391,8 @@
 
 <div class="container">
     <div class="header">
-        <h1>🎰 লটারি ড্র সিস্টেম</h1>
-        <p>লটারি ড্র অভিজ্ঞতা</p>
+        <img src="https://edulife.agency/storage/loggo-agency-01.png" alt="t">
+        <p>Raffle Draw System</p>
     </div>
 
     <div class="drum-container">
